@@ -93,4 +93,4 @@ export const imagery: Record<string, ImageRef> = {
 
 // Prefer remote (Unsplash) until /public/images is populated with real photography.
 // Swap to `img.local` once production images are dropped in.
-export const imgSrc = (img: ImageRef) => img.remote;
+export const imgSrc = (img: ImageRef) => img.local;
