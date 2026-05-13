@@ -25,7 +25,7 @@ export const imagery: Record<string, ImageRef> = {
     alt: "A serious cocktail bar in Bogotá — The Cocktail Hours.",
   },
   coffee: {
-    local: local: "/images/coffee.jpg",
+    local: "/images/coffee.jpg",
     remote: unsplash("photo-1495474472287-4d71bcdd2085"),
     alt: "A specialty coffee cupping — The Coffee Sessions.",
   },
