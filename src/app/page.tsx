@@ -40,7 +40,7 @@ export default function LVLLuxuryLanding() {
           <div className="relative">
             <div className="aspect-[4/5] rounded-[2rem] overflow-hidden border border-[#3A2E1B] bg-[#0B1D19] shadow-2xl">
               <img
-                src=/images/hero.jpg
+                src="/images/hero.jpg"
                 alt="Luxury hospitality"
                 className="w-full h-full object-cover opacity-80"
               />
